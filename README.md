@@ -41,6 +41,8 @@ Model performance:
 
 Note that the configs differ only in the validation dataset used. The model is the same for all three datasets.
 
+Class IDs (VSSign classes and corresponding glosses) for the Logos dataset are provided at `data\Logos\class_ids.tsv`
+
 
 ## Installation
 
