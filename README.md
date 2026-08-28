@@ -1,7 +1,7 @@
 
 # Logos as a Well-Tempered Pre-train for Sign Language Recognition
 
-This is an official code repository for the paper [Logos as a Well-Tempered Pre-train for Sign Language Recognition](https://www.arxiv.org/abs/2505.10481) and the Russian Sign Language dataset **Logos**.
+This is an official code repository for the paper [Logos as a Well-Tempered Pre-train for Sign Language Recognition](https://aclanthology.org/2025.emnlp-main.1238/) and the Russian Sign Language dataset **Logos**.
 
 ## The Logos dataset
 
