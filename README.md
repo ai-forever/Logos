@@ -174,10 +174,11 @@ bash tools/dist_test.sh configs/Logos/logos_autsl_wlasl_init_test_WLASL.py data/
   
 ## Citations
 ```
-@article{ovodov2025logos,
-  title={Logos as a Well-Tempered Pre-train for Sign Language Recognition},
+@inproceedings{ovodov2025logos,
+  title={Logos as a well-tempered pre-train for sign language recognition},
   author={Ovodov, Ilya and Surovtsev, Petr and Kvanchiani, Karina and Kapitanov, Alexander and Nagaev, Alexander},
-  journal={arXiv preprint arXiv:2505.10481},
+  booktitle={Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing},
+  pages={24351--24364},
   year={2025}
 }
 ```
